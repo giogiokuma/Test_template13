@@ -1,0 +1,3 @@
+1. materialize css の　写真をバックにしいてアイキャッチ的に置く
+  js/component 
+    - init.js // これが入ると写真をバックにしくことができる
