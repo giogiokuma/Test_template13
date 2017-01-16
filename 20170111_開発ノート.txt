@@ -1,3 +1,22 @@
+マテリアル CSS 
+http://materializecss.com/grid.html
+
+
+
 1. materialize css の　写真をバックにしいてアイキャッチ的に置く
   js/component 
     - init.js // これが入ると写真をバックにしくことができる
+    
+2. CSS -grid // 001-css-grid.html 
+
+navgation をどうする
+
+3. 
+
+出版サイト　
+Coorpolate Color 
+#7291d8　main blue
+#8ec6ff pale blue
+#2c333a dark blue
+
+#ff3333 red
