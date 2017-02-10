@@ -20,3 +20,13 @@ Coorpolate Color
 #2c333a dark blue
 
 #ff3333 red
+
+----
+20170123
+4. コンテンツ　の css に　scssで     => partialsフォルダを追加 <_layout.scss, _mixins.scss, _variables.scss> 
+	cd-fixed-bg cd-bg-1　を追加
+	cd-scrolling-bg cd-color-1 を追加
+
+5. ナビゲーションで　mobile レイアウトのとき
+iconのテキストカラー => class 属性に　cyan-text text-darken-4を追加するとテキスト色が変わる 	
+	
