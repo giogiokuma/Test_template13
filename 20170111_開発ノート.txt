@@ -30,3 +30,8 @@ Coorpolate Color
 5. ナビゲーションで　mobile レイアウトのとき
 iconのテキストカラー => class 属性に　cyan-text text-darken-4を追加するとテキスト色が変わる 	
 	
+----
+20170216
+6.  バッチを追加
+
+7. ボタンを作成
