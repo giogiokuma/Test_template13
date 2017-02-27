@@ -35,3 +35,15 @@ iconのテキストカラー => class 属性に　cyan-text text-darken-4を追�
 6.  バッチを追加
 
 7. ボタンを作成
+
+8. ぱんクズリスト
+
+9. カード
+
+10. Helpers 
+    left-align
+    right-align
+    card-panel hoverable // 影がつく
+
+11. 
+
